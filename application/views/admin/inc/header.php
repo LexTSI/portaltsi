@@ -56,8 +56,8 @@
     <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous"> -->
 
     <!-- LEX CSS -->
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/lex.css');?>">
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/bootstrap.css');?>">
+    <link rel="stylesheet" type="text/css" href="css/lex.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     
   </head>
   <body>
